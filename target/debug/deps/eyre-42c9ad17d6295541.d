@@ -1,0 +1,15 @@
+/home/lang/code/c3d/target/debug/deps/libeyre-42c9ad17d6295541.rmeta: /home/lang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.6.12/src/lib.rs /home/lang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.6.12/src/backtrace.rs /home/lang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.6.12/src/chain.rs /home/lang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.6.12/src/context.rs /home/lang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.6.12/src/error.rs /home/lang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.6.12/src/fmt.rs /home/lang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.6.12/src/kind.rs /home/lang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.6.12/src/macros.rs /home/lang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.6.12/src/option.rs /home/lang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.6.12/src/ptr.rs /home/lang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.6.12/src/wrapper.rs
+
+/home/lang/code/c3d/target/debug/deps/eyre-42c9ad17d6295541.d: /home/lang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.6.12/src/lib.rs /home/lang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.6.12/src/backtrace.rs /home/lang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.6.12/src/chain.rs /home/lang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.6.12/src/context.rs /home/lang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.6.12/src/error.rs /home/lang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.6.12/src/fmt.rs /home/lang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.6.12/src/kind.rs /home/lang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.6.12/src/macros.rs /home/lang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.6.12/src/option.rs /home/lang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.6.12/src/ptr.rs /home/lang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.6.12/src/wrapper.rs
+
+/home/lang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.6.12/src/lib.rs:
+/home/lang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.6.12/src/backtrace.rs:
+/home/lang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.6.12/src/chain.rs:
+/home/lang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.6.12/src/context.rs:
+/home/lang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.6.12/src/error.rs:
+/home/lang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.6.12/src/fmt.rs:
+/home/lang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.6.12/src/kind.rs:
+/home/lang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.6.12/src/macros.rs:
+/home/lang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.6.12/src/option.rs:
+/home/lang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.6.12/src/ptr.rs:
+/home/lang/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.6.12/src/wrapper.rs:
