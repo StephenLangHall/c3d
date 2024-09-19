@@ -49,6 +49,7 @@ fn draw(frame: &mut Frame) {
         .y_bounds([-90.0, 90.0])
         .paint(|ctx| {
             ctx.layer();
+            /*
             ctx.draw(&Line {
                 x1: -50.0,
                 y1: 0.0,
@@ -63,11 +64,15 @@ fn draw(frame: &mut Frame) {
                 y2: 50.0,
                 color: Color::Red,
             });
+            */
             ctx.draw(&Points {
-                coords: &calc::get_view_pos(objects::POINTS),
+                coords: &calc::get_view_pos(objects::CAMERA, objects::POINTS),
                 color: Color::White,
             })
         });
+    for p in &calc::get_view_pos(objects::CAMERA, objects::POINTS) {
+        println!("({0}, {1})", p.0, p.1);
+    }
     frame.render_widget(canvas, frame.area());
 }
 
