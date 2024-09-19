@@ -1,1 +1,0 @@
-/home/lang/code/c3d/target/debug/c3d: /home/lang/code/c3d/src/calc.rs /home/lang/code/c3d/src/main.rs /home/lang/code/c3d/src/objects.rs /home/lang/code/c3d/src/templ.rs /home/lang/code/c3d/src/util.rs
